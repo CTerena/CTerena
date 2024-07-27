@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sth you may want to know about me**
 
 
-- An undergraduate student in ZJU-UIUC Institute, class of 2025.
+- I'm an undergraduate student in ZJU-UIUC Institute, class of 2025.
 - Currently doing a research internship in MSRA.
 
 
