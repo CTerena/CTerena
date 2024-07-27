@@ -7,8 +7,8 @@
 ## 💫 **Sth you may want to know about me**
 
 
-- 🌱 An undergraduate student in [ZJU-UIUC Institute](https://zjui.intl.zju.edu.cn/), class of 2025.
-- 🤔 Currently doing a research internship in [MSRA](https://www.msra.cn/).<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 ECE Undergrad @ [ZJU-UIUC Institute](https://zjui.intl.zju.edu.cn/), class of 2025.
+- 🤔 Research intern at [MSRA](https://www.msra.cn/) since Jun 2024.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <hr>
 
