@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
-<hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+!+It's+Terena+!)](https://git.io/typing-svg)
 ## 💫 **Sth you may want to know about me**
