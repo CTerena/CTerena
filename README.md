@@ -3,9 +3,7 @@
 ## 💫 **Sth you may want to know about me**
 
 - 🌱 ECE Undergrad @ [ZJU-UIUC Institute](https://zjui.intl.zju.edu.cn/), class of 2025.
-- 🤔 Research intern @ [MSRA](https://www.msra.cn/) since Jun 2024.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🏫 Passionate about literature, with a particular admiration for the works of [Yukio Mishima](https://en.wikipedia.org/wiki/Yukio_Mishima), [Rainer Maria Rilke](https://en.wikipedia.org/wiki/Rainer_Maria_Rilke), [Stefan Zweig](https://en.wikipedia.org/wiki/Stefan_Zweig), and [Mario Vargas Llosa](https://en.wikipedia.org/wiki/Mario_Vargas_Llosa).    
-- 🔭 Enthralled by film, with a profound appreciation for the films of [Edward Yang](https://en.wikipedia.org/wiki/Edward_Yang) and [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen).
+- 🤔 Research intern @ [STCA](https://www.msra.cn/) since Jun 2024.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <hr>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CTerena&bg_color=d1faff&color=4c9d9e&line=6647ff&point=00bd2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
