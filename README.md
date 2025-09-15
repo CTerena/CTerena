@@ -2,8 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+!+It's+Terena+!)](https://git.io/typing-svg)
 ## 💫 **Sth you may want to know about me**
 
+- Master Student in CSE @ Harvard
 - 🌱 ECE Undergrad @ [ZJU-UIUC Institute](https://zjui.intl.zju.edu.cn/), class of 2025.
-- 🤔 Research intern @ [MSRA](https://www.msra.cn/) since Jun 2024.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤔 Research intern @ [MSRA](https://www.msra.cn/) from Jun 2024 to May 2025.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <hr>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CTerena&bg_color=d1faff&color=4c9d9e&line=6647ff&point=00bd2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
